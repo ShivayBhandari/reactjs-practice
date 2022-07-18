@@ -5,6 +5,5 @@ function App() {
     </div>
   );
 }
-//JSX syntax (HTML syntax in JavaScript)
 
 export default App;
